@@ -14,12 +14,10 @@ To identify profitable iPhone models, understand pricing patterns, compare resal
 
 ## 🛠 Tools Used
 
+- SQL
 - Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Conditional Formatting
-- Excel Formulas
+- Power BI
+
 
 ---
 
@@ -43,7 +41,6 @@ To identify profitable iPhone models, understand pricing patterns, compare resal
 - Sales Trend Analysis
 - Seller Performance
 - Storage Variant Analysis
-- Battery Health Distribution
 - Condition Analysis
 - Price Comparison
 - Dynamic Filters using Slicers
