@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes the refurbished iPhone resale market in the United States using Microsoft Excel. The dashboard provides insights into pricing trends, sales performance, seller performance, and storage variant demand across major online resale platforms.
+This project analyzes the refurbished iPhone resale market in the United States. The dashboard provides insights into pricing trends, sales performance, seller performance, and storage variant demand across major online resale platforms.
 
 ---
 
