@@ -57,15 +57,6 @@ To identify profitable iPhone models, understand pricing patterns, compare resal
 
 ---
 
-## 📁 Files Included
-
-- iPhone_Resale_Market_Intelligence.xlsx
-- USA_iPhone_Resale_Dataset.xlsx
-- Dashboard.png
-- Project_Report.pdf
-
----
-
 ## 🚀 Skills Demonstrated
 
 - Data Cleaning
